@@ -1,0 +1,19 @@
+.img-row{
+    display:flex;
+    background:rgb(212, 218, 210);
+    margin:20px 0;
+    align-items: center;
+    border-radius: 6px;
+    align-items:center ;
+    overflow: hidden;
+}
+
+#fixed-img{
+    margin-left:20%;
+}
+@media(max-width:1400px){
+
+}
+
+
+
